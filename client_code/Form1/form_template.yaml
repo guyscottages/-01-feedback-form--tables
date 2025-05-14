@@ -32,6 +32,10 @@ components:
     name: feeback_box
     properties: {}
     type: TextBox
+  - layout_properties: {grid_position: 'GVSUWF,JLMCPE'}
+    name: spacer_1
+    properties: {height: 32}
+    type: Spacer
   - layout_properties: {grid_position: 'AFVNUH,GIKJBV'}
     name: submit_button
     properties: {text: SUBMIT}
