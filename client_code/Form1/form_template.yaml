@@ -28,7 +28,8 @@ components:
     name: label_4
     properties: {text: 'Feedback:'}
     type: Label
-  - layout_properties: {grid_position: 'NNSYAS,BGFUBZ'}
+  - event_bindings: {}
+    layout_properties: {grid_position: 'NNSYAS,BGFUBZ'}
     name: feedback_box
     properties:
       margin: ['40', '0', '40', '0']
