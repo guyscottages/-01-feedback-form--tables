@@ -1,6 +1,6 @@
 allow_embedding: false
 db_schema:
-  table_1:
+  feedback:
     client: none
     columns:
     - admin_ui: {order: 0, width: 200}
@@ -16,7 +16,7 @@ db_schema:
       name: created
       type: datetime
     server: full
-    title: Table 1
+    title: feedback
 name: Material Design 1
 package_name: Material_Design_1
 runtime_options:
