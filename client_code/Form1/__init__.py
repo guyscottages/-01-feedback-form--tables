@@ -22,6 +22,6 @@ class Form1(Form1Template):
 
   def clear_inputs(self):
     # Clear our three text boxes
-    self.name_box.text = ""
-    self.email_box.text = ""
-    self.feedback_box.text = ""
+    self.name_box.text = "Enter data"
+    self.email_box.text = "Enter data"
+    self.feedback_box.text = "Enter data"
