@@ -17,8 +17,8 @@ db_schema:
       type: datetime
     server: full
     title: feedback
-name: Feedback form, tables
-package_name: Feedback_form__tables
+name: 01 Feedback form, tables
+package_name: _01_Feedback_form__tables
 runtime_options:
   client_version: '3'
   server_spec: {base: python310-minimal}
